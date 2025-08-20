@@ -1,0 +1,28 @@
+{
+  "$schema": "https://github.com/SideStore/sidestore-source-types/raw/main/schema.json",
+  "name": "EveeSpotify",
+  "subtitle": "Spotify with extras",
+  "description": "Personal sideloaded build.",
+  "iconURL": "https://cdn.jim-nielsen.com/ios/512/spotify-music-2015-07-30.png?rf=1024",
+  "tintColor": "#1DB954",
+  "apps": [
+    {
+      "name": "EveeSpotify",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "Husni",
+      "subtitle": "Unofficial build",
+      "localizedDescription": "Install EveeSpotify via SideStore.",
+      "iconURL": "https://cdn.jim-nielsen.com/ios/512/spotify-music-2015-07-30.png?rf=1024",
+      "tintColor": "#1DB954",
+      "versions": [
+        {
+          "version": "6.1.1",
+          "buildVersion": "1",
+          "date": "2025-08-19",
+          "downloadURL": "https://www.dropbox.com/scl/fi/64cd8kwh3qswgf1rs6g6z/EeveeSpotify-9.0.70.ipa?rlkey=l75nacrmq4pflwqx7xniyiec3&st=a21rfbah&dl=1"
+        }
+      ]
+    }
+  ],
+  "news": []
+}
